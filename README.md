@@ -1,1 +1,0 @@
-# Niskhodovskiy_clinic

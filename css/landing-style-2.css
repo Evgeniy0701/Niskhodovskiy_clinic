@@ -343,6 +343,7 @@ a {
     min-height: 150px;
     flex-direction: row;
     margin: 0 20px 20px 20px;
+    padding-bottom: 35px;
 }
 .feature-item:nth-of-type(2n){
     flex-direction: row-reverse;
